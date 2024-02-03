@@ -1,0 +1,1 @@
+{"error":"unknown error","warnings":["There was an inference error: Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"]}
